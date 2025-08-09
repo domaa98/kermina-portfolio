@@ -92,7 +92,7 @@ export const Contact = () => {
                 </Button>
                 </a>
 
-                <a href="tel:+201234567890">
+                <a href="tel:+201228041542">
                 <Button 
                   variant="outline" 
                   size="lg" 
